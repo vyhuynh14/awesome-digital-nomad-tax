@@ -62,6 +62,7 @@
 
 - 🧮 [NomadTaxGuide Calculator](https://nomadtaxguide.com/) - Free tax comparison calculator for 16 countries
 - [Tax Residency Certificate Guide](https://nomadtaxguide.com/blog/tax-residency-certificate-guide/) - How to get a TRC in 12+ countries
+- 🇪🇸 [Radar Fiscal](https://radarfiscal.es) - Free calendar of Spanish autónomo tax deadlines (Modelo 303, 130, 111, and more) with filing windows and due dates; browser extension for Chrome and Firefox with reminders
 
 ### Other Tools
 - [Nomad List](https://nomadlist.com) - City comparison for digital nomads
