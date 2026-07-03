@@ -64,6 +64,7 @@
 - [Tax Residency Certificate Guide](https://nomadtaxguide.com/blog/tax-residency-certificate-guide/) - How to get a TRC in 12+ countries
 
 ### Other Tools
+- [Awesome Digital Nomads](https://github.com/cloudfloo/awesome-digital-nomads) - Broader companion list of nomad tools and resources, with a Taxes & Legal section, link-checked weekly
 - [Nomad List](https://nomadlist.com) - City comparison for digital nomads
 - [SafetyWing Tax Calculator](https://safetywing.com/nomad-tax) - Basic tax comparison
 - [Wise](https://wise.com) - Multi-currency business account
