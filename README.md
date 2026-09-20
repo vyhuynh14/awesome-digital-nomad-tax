@@ -119,3 +119,7 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Related tools
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser expense log, timesheet, invoice, and change-order tools for freelancers (not tax advice).
