@@ -63,6 +63,8 @@
 - 🧮 [NomadTaxGuide Calculator](https://nomadtaxguide.com/) - Free tax comparison calculator for 16 countries
 - [Tax Residency Certificate Guide](https://nomadtaxguide.com/blog/tax-residency-certificate-guide/) - How to get a TRC in 12+ countries
 
+- [Tax Residency Days](https://taxresidencydays.com) - Free multi-country calculator: one travel ledger against 15 countries' tax-residency day tests (US SPT, UK SRT, 183-day rules) plus Schengen 90/180, with exact math shown. 100% in-browser
+
 ### Other Tools
 - [Nomad List](https://nomadlist.com) - City comparison for digital nomads
 - [SafetyWing Tax Calculator](https://safetywing.com/nomad-tax) - Basic tax comparison
