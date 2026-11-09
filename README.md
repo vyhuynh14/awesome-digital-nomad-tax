@@ -67,6 +67,7 @@
 - [Nomad List](https://nomadlist.com) - City comparison for digital nomads
 - [SafetyWing Tax Calculator](https://safetywing.com/nomad-tax) - Basic tax comparison
 - [Wise](https://wise.com) - Multi-currency business account
+- [Nomad Pro](https://nomadpro.ai/) - iOS app for British nomads that works out their UK day limit under HMRC's Statutory Residence Test from their UK ties, counts UK and Schengen 90/180 days, and exports CSV/PDF records for an accountant
 
 ---
 
